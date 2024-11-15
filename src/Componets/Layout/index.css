@@ -1,0 +1,10 @@
+.layout {
+    width: 100%;
+    height: 100vh;
+    background: #fbdb48;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
